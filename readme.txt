@@ -5,4 +5,8 @@ GIt is a mutable index clalled stage
 Git tracks changes of files 
 ningyanke fix the file  21:38
 
-Create a new branch is quick  & simple
+<<<<<<< HEAD
+Create a new branch is quick  and simple
+=======
+Create a new branch is quick and simple
+>>>>>>> feature1
