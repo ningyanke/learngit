@@ -12,3 +12,5 @@ Create a new branch is quick and simple
 >>>>>>> feature1
 
 new commit
+
+A bug need fix
