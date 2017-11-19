@@ -39,6 +39,6 @@ dkpg -i xxxx.deb
 >表格编辑,具有强大的功能
 
 >3.3设置文本缩进
->![atom4](/home/ningyanke/ubuntu_learn/picture/atom4.png)
+>![atom4](./picture/atom4.png)
 
 [文章出处](http://www.cnblogs.com/fanzhidongyzby/p/6637084.html)
